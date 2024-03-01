@@ -94,8 +94,8 @@ export default function Home() {
   //<Import Token>
   const importToken = async() => {
     const {ethereum} = window as any;
-    const tokenAddress = "0x97a2DA992E6686C0c89521c7B2b4224029BCe9fF"; //contract add
-    const tokenSymbol = "CAT";
+    const tokenAddress = "0x5B2A52A4E1dB4A5b4eCD17C74a99358924e0E486"; //contract add
+    const tokenSymbol = "MEW";
     const tokenDecimal = 18;
 
     try{
